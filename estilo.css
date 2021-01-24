@@ -1,0 +1,49 @@
+/* palette https://coolors.co/264653-2a9d8f-e9c46a-f4a261-e76f51 */
+
+
+body,
+html{
+    width: 100%;
+    height: 100%;
+    font-family: 'Roboto', sans-serif;
+    background: url(fondix.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+
+h1{
+    font-size: 3rem;
+    font-family: 'Lobster', cursive;
+    color:rgb(255, 255, 255);
+    text-shadow: 2px 2px 2px #103e69;
+}
+
+
+.p-por{
+    color: #DEEFF8;
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+.buffer{
+    height: 1rem;
+}
+
+.btn{
+    padding: 1rem 1rem;
+    border-radius: 50px;
+    font-weight: 500;
+    color: white;
+    border-color: #FFB703;
+    font-family: 'Roboto', sans-serif;
+    max-width: 160px;
+}
+
+.btn:hover{
+    background-color: white;
+    border-color: white;
+    border-width: 3px;
+}
